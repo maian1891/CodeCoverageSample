@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/CodeCoverage/.vs/CodeCoverage/v16
+/src/CodeCoverage/CaculatorTest/bin/Debug/net5.0
+/src/CodeCoverage/CaculatorTest/obj
+/src/CodeCoverage/CodeCoverage/bin/Debug/net5.0
+/src/CodeCoverage/CodeCoverage/obj
