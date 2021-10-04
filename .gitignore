@@ -8,3 +8,5 @@
 /src/CodeCoverage/CaculatorTest/obj
 /src/CodeCoverage/CodeCoverage/bin/Debug/net5.0
 /src/CodeCoverage/CodeCoverage/obj
+/src/CodeCoverage/.vs/CodeCoverage/DesignTimeBuild
+/src/CodeCoverage/CaculatorTest/TestResults/2cf25c0a-94e1-4e83-a63e-944d907fb374/coverage.cobertura.xml

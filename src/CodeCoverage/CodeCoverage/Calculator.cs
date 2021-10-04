@@ -4,6 +4,11 @@
     {
         public int Add(int one, int two)
         {
+            if (one == 0)
+            {
+                return 0 + two;
+            }
+
             return one + two;
         }
 
