@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: CodeCoverage
+        working-directory: src/CodeCoverage
         
     steps:
     - uses: actions/checkout@v2
